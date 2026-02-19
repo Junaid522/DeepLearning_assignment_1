@@ -1,0 +1,15 @@
+feature,importance
+amenity_score,0.00013354463
+room_type_Entire home/apt,3.569294e-05
+room_type_Private room,2.6664704e-05
+neighbourhood_group_Staten Island,2.6355523e-05
+neighbourhood_group_Manhattan,2.5443449e-05
+neighbourhood_group_Bronx,2.5130159e-05
+neighbourhood_group_Queens,2.456784e-05
+room_type_Unknown,2.3571261e-05
+neighbourhood_group_Brooklyn,2.300102e-05
+neighbourhood_group_Unknown,1.7928349e-05
+room_type_Shared room,1.4163832e-05
+minimum_nights,9.840476e-06
+availability_365,5.4504103e-06
+number_of_reviews,4.59357e-06
