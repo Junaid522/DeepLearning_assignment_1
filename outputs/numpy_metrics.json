@@ -1,0 +1,14 @@
+{
+  "sigmoid": {
+    "final_train_acc": 0.5632010158115911,
+    "final_val_acc": 0.563172530528352,
+    "final_train_loss": 1.1063920286224367,
+    "final_val_loss": 1.1060801212718074
+  },
+  "relu": {
+    "final_train_acc": 0.6905704870453789,
+    "final_val_acc": 0.6902430177729416,
+    "final_train_loss": 0.7524024648470305,
+    "final_val_loss": 0.7533065773329077
+  }
+}
