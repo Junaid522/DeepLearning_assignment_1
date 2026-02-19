@@ -1,0 +1,30 @@
+Rows: 41348
+Columns: 7
+
+Dtypes:
+neighbourhood_group        str
+room_type                  str
+minimum_nights         float64
+amenity_score          float64
+number_of_reviews      float64
+availability_365       float64
+price_class              int64
+dtype: object
+
+Missing values:
+neighbourhood_group     839
+room_type               611
+minimum_nights         1322
+amenity_score           916
+number_of_reviews      1123
+availability_365        595
+price_class               0
+dtype: int64
+
+Class distribution:
+price_class
+0     5567
+1    23287
+2     9844
+3     2650
+Name: count, dtype: int64
